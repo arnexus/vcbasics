@@ -2,3 +2,5 @@ Bananas
 Oranges
 Apples
 Kiwis
+
+Strawberries
